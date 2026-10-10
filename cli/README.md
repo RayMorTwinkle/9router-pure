@@ -4,15 +4,7 @@
 
 **Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models.**
 
-[![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-[![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-[![Docker Pulls](https://img.shields.io/docker/pulls/decolua/9router.svg?logo=docker&label=Docker%20pulls)](https://hub.docker.com/r/decolua/9router)
-[![GHCR](https://img.shields.io/badge/GHCR-decolua%2F9router-blue?logo=github)](https://github.com/decolua/9router/pkgs/container/9router)
-[![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-
-<a href="https://trendshift.io/repositories/22628" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22628" alt="decolua%2F9router | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-[🌐 Website](https://9router.com) • [📖 Full Docs](https://github.com/decolua/9router)
+[📖 Full Docs](https://github.com/decolua/9router)
 
 ---
 
@@ -202,7 +194,6 @@ Full docs, advanced setup, video tutorials & development guide:
 
 - **GitHub**: https://github.com/decolua/9router
 - **Full README**: https://github.com/decolua/9router/blob/master/README.md
-- **Website**: https://9router.com
 
 ---
 

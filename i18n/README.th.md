@@ -13,11 +13,7 @@
     <img src="../public/providers/openclaw.png" alt="OpenClaw" width="80"/>
   </p>
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-  
-  [🚀 เริ่มต้นใช้งาน](#-quick-start) • [💡 ฟีเจอร์](#-key-features) • [📖 การตั้งค่า](#-setup-guide) • [🌐 เว็บไซต์](https://9router.com)
+  [🚀 เริ่มต้นใช้งาน](#-quick-start) • [💡 ฟีเจอร์](#-key-features) • [📖 การตั้งค่า](#-setup-guide)
 </div>
 
 ---
@@ -330,9 +326,9 @@ URL ค่าเริ่มต้น:
 
 | ฟีเจอร์ | ทำอะไร | ทำไมถึงสำคัญ |
 |---------|--------------|----------------|
-| 🚀 **RTK Token Saver** ([RTK](https://github.com/rtk-ai/rtk) ⭐40K) | บีบอัดผลลัพธ์จากเครื่องมือ (`git diff`, `grep`, `ls`, `tree`...) ก่อนส่งให้ LLM | ประหยัด **โทเค็น input 20-40%** ต่อคำขอ |
+| 🚀 **RTK Token Saver** ([RTK](https://github.com/rtk-ai/rtk)) | บีบอัดผลลัพธ์จากเครื่องมือ (`git diff`, `grep`, `ls`, `tree`...) ก่อนส่งให้ LLM | ประหยัด **โทเค็น input 20-40%** ต่อคำขอ |
 | 🧠 **Headroom Token Saver** ([Headroom](https://github.com/chopratejas/headroom)) | พร็อกซี `/v1/compress` ภายนอกก่อนเลือกผู้ให้บริการ | ประหยัดโทเค็นบริบทมากขึ้นโดยไม่ต้องเปลี่ยน client |
-| 🪨 **Caveman Mode** ([Caveman](https://github.com/JuliusBrussee/caveman) ⭐52K) | ฉีด caveman-speak prompt → LLM ตอบสั้นกระชับ เนื้อหาทางเทคนิคยังครบถ้วน | ประหยัด **โทเค็น output สูงสุด 65%** |
+| 🪨 **Caveman Mode** ([Caveman](https://github.com/JuliusBrussee/caveman)) | ฉีด caveman-speak prompt → LLM ตอบสั้นกระชับ เนื้อหาทางเทคนิคยังครบถ้วน | ประหยัด **โทเค็น output สูงสุด 65%** |
 | 🐴 **Ponytail** ([Ponytail](https://github.com/DietrichGebert/ponytail)) | ฉีด prompt "lazy senior dev" → LLM เขียนโค้ดน้อยที่สุด YAGNI-first (Lite/Full/Ultra) | **โทเค็น output น้อยลง, ไม่ต้อง refactor มาก** |
 | 🎯 **Smart 3-Tier Fallback** | เลือกเส้นทางอัตโนมัติ: สมาชิก → ถูก → ฟรี | ไม่ต้องหยุดเขียนโค้ด, ไม่มีเวลาหยุดทำงาน |
 | 📊 **ติดตามโควตาแบบ Real-Time** | นับโทเค็นแบบ live + นับถอยหลังรีเซ็ต | เพิ่มประสิทธิภาพมูลค่าสมาชิก |
@@ -698,7 +694,6 @@ Authorization: Bearer your-api-key
 
 ## 📧 สนับสนุน
 
-- **เว็บไซต์**: [9router.com](https://9router.com)
 - **GitHub**: [github.com/decolua/9router](https://github.com/decolua/9router)
 - **Issues**: [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -707,8 +702,6 @@ Authorization: Bearer your-api-key
 ## 👥 ผู้มีส่วนร่วม
 
 ขอขอบคุณผู้มีส่วนร่วมทุกคนที่ช่วยทำให้ 9Router ดียิ่งขึ้น!
-
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=150&columns=15&anon=1)](https://github.com/decolua/9router/graphs/contributors)
 
 ---
 

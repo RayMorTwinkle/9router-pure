@@ -7,11 +7,7 @@
 
   **すべてのAIコーディングツール（Claude Code、Cursor、Antigravity、Copilot、Codex、Gemini、OpenCode、Cline、OpenClaw...）を40以上のAIプロバイダーと100以上のモデルに接続。**
 
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-
-  [🚀 クイックスタート](#-クイックスタート) • [💡 機能](#-主な機能) • [📖 セットアップ](#-セットアップガイド) • [🌐 ウェブサイト](https://9router.com)
+  [🚀 クイックスタート](#-クイックスタート) • [💡 機能](#-主な機能) • [📖 セットアップ](#-セットアップガイド)
 
   [🇻🇳 Tiếng Việt](./README.vi.md) • [🇨🇳 中文](./README.zh-CN.md) • [🇯🇵 日本語](./README.ja-JP.md)
 </div>
@@ -109,28 +105,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 デフォルトURL：
 - ダッシュボード: `http://localhost:20128/dashboard`
 - OpenAI互換API: `http://localhost:20128/v1`
-
----
-
-## 🎥 動画チュートリアル
-
-<div align="center">
-
-### 📺 完全セットアップガイド - 9Router + Claude Code 無料
-
-[![9Router + Claude Code Setup](https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg)](https://www.youtube.com/watch?v=raEyZPg5xE0)
-
-**🎬 ステップバイステップのチュートリアルを視聴：**
-- ✅ 9Routerのインストールとセットアップ
-- ✅ 無料Claude Sonnet 4.5の設定
-- ✅ Claude Codeとの統合
-- ✅ ライブコーディングデモ
-
-**⏱️ 所要時間:** 20分 | **👥 作成:** Developer Community
-
-[▶️ YouTubeで視聴](https://www.youtube.com/watch?v=o3qYCyjrFYg)
-
-</div>
 
 ---
 
@@ -1166,7 +1140,6 @@ Authorization: Bearer your-api-key
 
 ## 📧 サポート
 
-- **ウェブサイト**: [9router.com](https://9router.com)
 - **GitHub**: [github.com/decolua/9router](https://github.com/decolua/9router)
 - **Issues**: [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1175,20 +1148,6 @@ Authorization: Bearer your-api-key
 ## 👥 コントリビューター
 
 9Routerの改善に貢献してくださったすべてのコントリビューターに感謝します！
-
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=150&columns=15&anon=1&v=20260309)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 スターチャート
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
-
-
-
-## 🔀 フォーク
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — 9RouterのフルフィーチャーTypeScriptフォーク。36以上のプロバイダー、4段階自動フォールバック、マルチモーダルAPI（画像、埋め込み、音声、TTS）、サーキットブレーカー、セマンティックキャッシュ、LLM評価、洗練されたダッシュボードを追加。368以上のユニットテスト。npmとDockerで利用可能。
 
 ---
 

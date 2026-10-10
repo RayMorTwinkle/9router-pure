@@ -11,11 +11,7 @@
     <img src="../public/providers/openclaw.png" alt="OpenClaw" width="80"/>
   </p>
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-  
-  [🚀 快速开始](#-quick-start) • [💡 特性](#-key-features) • [📖 设置](#-setup) • [🌐 网站](https://9router.com)
+  [🚀 快速开始](#-quick-start) • [💡 特性](#-key-features) • [📖 设置](#-setup)
 </div>
 
 ---
@@ -112,28 +108,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 默认 URL：
 - 仪表板：`http://localhost:20128/dashboard`
 - OpenAI 兼容 API：`http://localhost:20128/v1`
-
----
-
-## 🎥 视频教程
-
-<div align="center">
-  
-### 📺完整设置指南 - 9Router + Claude Code 免费
-  
-[![9Router + Claude Code Setup](https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg)](https://www.youtube.com/watch?v=raEyZPg5xE0)
-
-**🎬 观看完整的分步教程：**
-- ✅ 9Router 安装与设置
-- ✅ 免费 Claude Sonnet 4.5 配置
-- ✅ Claude Code 集成
-- ✅ 实时编程演示
-
-**⏱️ 时长：** 20 分钟 | **👥 作者** 开发者社区
-
-[▶️ 在 YouTube 上观看](https://www.youtube.com/watch?v=o3qYCyjrFYg)
-
-</div>
 
 ---
 
@@ -1254,7 +1228,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 
 ## 📧 支持
 
-- **网站**：[9router.com](https://9router.com)
 - **GitHub**：[github.com/decolua/9router](https://github.com/decolua/9router)
 - **问题**：[github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1263,14 +1236,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 ## 👥 贡献者
 
 感谢所有帮助让 9Router 变得更好的贡献者！
-
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=100&columns=20&anon=1)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 Star 图表
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
 
 ### 如何贡献
 
@@ -1281,12 +1246,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 5. 打开 Pull Request
 
 详细指南请参阅 [Pull Requests](https://github.com/decolua/9router/pulls)。
-
----
-
-## 🔀 分支
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — 9Router 的全功能 TypeScript 分支。添加了 36+ 提供商、4 层自动回退、多模态 API（图像、嵌入、音频、TTS）、熔断器、语义缓存、LLM 评估和精美的仪表板。8+ 单元测试。通过 npm 和 Docker 可用。
 
 ---
 

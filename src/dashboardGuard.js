@@ -29,7 +29,6 @@ const PUBLIC_API_PATHS = [
   "/api/auth/status",
   "/api/auth/oidc",
   "/api/auth/saml",
-  "/api/version",
   "/api/settings/require-login",
 ];
 
@@ -42,7 +41,6 @@ const ALWAYS_PROTECTED = [
   "/api/shutdown",
   "/api/settings/database",
   "/api/version/shutdown",
-  "/api/version/update",
   "/api/oauth/cursor/auto-import",
   "/api/oauth/kiro/auto-import",
   "/api/oauth/zed/auto-import",

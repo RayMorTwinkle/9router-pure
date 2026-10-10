@@ -7,15 +7,8 @@
   
   **همه ابزارهای کدنویسی مبتنی بر هوش مصنوعی (Claude Code، Cursor، Antigravity، Copilot، Codex، Gemini، OpenCode، Cline، OpenClaw...) را به بیش از ۴۰ ارائه‌دهنده و ۱۰۰+ مدل متصل کنید.**
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Docker Pulls](https://img.shields.io/docker/pulls/decolua/9router.svg?logo=docker&label=Docker%20pulls)](https://hub.docker.com/r/decolua/9router)
-  [![GHCR](https://img.shields.io/badge/GHCR-decolua%2F9router-blue?logo=github)](https://github.com/decolua/9router/pkgs/container/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
 
-<a href="https://trendshift.io/repositories/22628" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22628" alt="decolua%2F9router | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-[🚀 شروع سریع](#-شروع-سریع) • [💡 ویژگی‌ها](#-ویژگی‌های-کلیدی) • [📖 راه‌اندازی](#-راهنمای-راه‌اندازی) • [🌐 وب‌سایت](https://9router.com)
+[🚀 شروع سریع](#-شروع-سریع) • [💡 ویژگی‌ها](#-ویژگی‌های-کلیدی) • [📖 راه‌اندازی](#-راهنمای-راه‌اندازی)
 
 [🇻🇳 Tiếng Việt](./i18n/README.vi.md) • [🇨🇳 中文](./i18n/README.zh-CN.md) • [🇯🇵 日本語](./i18n/README.ja-JP.md) • [🇷🇺 Русский](./i18n/README.ru.md) • [🇮🇷 فارسی](./i18n/README.fa_IR.md)
 
@@ -118,102 +111,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 
 - داشبورد: `http://localhost:20128/dashboard`
 - API سازگار با OpenAI: `http://localhost:20128/v1`
-
----
-
-## راهنماهای تصویری
-
-<div align="center">
-
-<table>
-  <tr>
-  <td align="center" width="320">
-  <a href="https://www.youtube.com/watch?v=X69n5Lm06Yw">
-    <img src="https://img.youtube.com/vi/X69n5Lm06Yw/maxresdefault.jpg" alt="صرفه‌جویی در هزینه LLM با 9Router" width="300"/>
-  </a><br/>
-  <b>🇻🇳 ویتنامی</b><br/>
-  <sub>صرفه‌جویی در هزینه LLM برای OpenClaw با 9Router<br/>توسط <a href="https://www.youtube.com/c/M%C3%ACAIblog">Mì AI</a></sub>
-</td>
-<td align="center" width="320">
-      <a href="https://youtu.be/VQAw612S27Y">
-        <img src="https://img.youtube.com/vi/VQAw612S27Y/maxresdefault.jpg" alt="راه‌اندازی نامحدود رایگان 9Router + Claude Code" width="300"/>
-      </a><br/>
-      <b>🇵🇰 اردو / हिन्दी</b><br/>
-      <sub>راه‌اندازی نامحدود رایگان 9Router + Claude Code<br/>توسط <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=raEyZPg5xE0">
-        <img src="https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg" alt="آموزش راه‌اندازی 9Router" width="300"/>
-      </a><br/>
-      <b>🇺🇸 انگلیسی</b><br/>
-      <sub>راه‌اندازی رایگان 9Router + Claude Code<br/>توسط <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" width="320">
-      <a href="https://youtu.be/3dF5GIYMrcQ?si=bAyfyiHbARJQAHj_">
-        <img src="https://img.youtube.com/vi/3dF5GIYMrcQ/hqdefault.jpg" alt="آموزش راه‌اندازی 9Router" width="300"/>
-      </a><br/>
-      <b>🇺🇸 انگلیسی</b><br/>
-      <sub>راه‌اندازی رایگان 9Router + Claude Code<br/>توسط <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=o3qYCyjrFYg">
-        <img src="https://img.youtube.com/vi/o3qYCyjrFYg/maxresdefault.jpg" alt="Claude Code رایگان برای همیشه" width="300"/>
-      </a><br/>
-      <b>🇺🇸 انگلیسی</b><br/>
-      <sub>Claude Code رایگان برای همیشه — مدل‌های نامحدود<br/>توسط <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=Ttpc26m39Dw">
-        <img src="https://img.youtube.com/vi/Ttpc26m39Dw/maxresdefault.jpg" alt="راه‌اندازی رایگان Claude CLI" width="300"/>
-      </a><br/>
-      <b>🇺🇸 انگلیسی</b><br/>
-      <sub>راه‌اندازی رایگان Claude CLI با 9Router 🚀<br/>توسط <a href="https://www.youtube.com/@CodeVerseSoban">CodeVerse Soban</a></sub>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=G-5A_D5Pm6Y">
-        <img src="https://img.youtube.com/vi/G-5A_D5Pm6Y/maxresdefault.jpg" alt="نصب کامل OpenClaw رایگان" width="300"/>
-      </a><br/>
-      <b>🇻🇳 ویتنامی</b><br/>
-      <sub>نصب کامل OpenClaw رایگان از صفر تا صد + 9Router<br/>توسط <a href="https://www.youtube.com/@maigia">Mai Gia</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=JXmg8_gccgE">
-        <img src="https://img.youtube.com/vi/JXmg8_gccgE/maxresdefault.jpg" alt="OpenClaw رایگان با Claude Opus" width="300"/>
-      </a><br/>
-      <b>🇺🇸 انگلیسی</b><br/>
-      <sub>OpenClaw رایگان + Claude Opus 4.6<br/>توسط <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=CkVZZUSTXAI">
-        <img src="https://img.youtube.com/vi/CkVZZUSTXAI/mqdefault.jpg" alt="راه‌اندازی رایگان Claude CLI" width="300"/>
-      </a><br/>
-      <b>🇮🇩 اندونزیایی</b><br/>
-      <sub>کدنویسی ۲۴ ساعته بدون محدودیت نرخ! صرفه‌جویی ۶۵٪ توکن هوش مصنوعی | آموزش راه‌اندازی سریع 9Router 🚀<br/>توسط <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
-    </td>
-    
-  </tr>
-  
-  <tr>
-  <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=TXGv4eofe1I">
-        <img src="https://img.youtube.com/vi/TXGv4eofe1I/mqdefault.jpg" alt="روش استقرار 9Router در Hugging Face رایگان و همیشه روشن! | جایگزین VPS با ۱۶ گیگابایت رم" width="300"/>
-      </a><br/>
-      <b>🇮🇩 اندونزیایی</b><br/>
-      <sub>روش استقرار 9Router در Hugging Face رایگان و همیشه روشن! | جایگزین VPS با ۱۶ گیگابایت رم<br/>توسط <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-> 🎬 **درباره 9Router ویدیو ساخته‌اید؟** یک [درخواست Pull](https://github.com/decolua/9router/pulls) برای افزودن ویدیوی خود به این بخش ارسال کنید — ما آن را ادغام خواهیم کرد!
 
 ---
 
@@ -433,9 +330,9 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 
 | ویژگی                                                                           | عملکرد                                                                                | اهمیت آن                                         |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 🚀 **ذخیره‌ساز توکن RTK** ([RTK](https://github.com/rtk-ai/rtk) ⭐۴۰هزار)         | فشرده‌سازی خروجی ابزارها (`git diff`، `grep`، `ls`، `tree`...) قبل از ارسال به LLM        | صرفه‌جویی **۲۰ تا ۴۰٪ توکن ورودی** در هر درخواست |
+| 🚀 **ذخیره‌ساز توکن RTK** ([RTK](https://github.com/rtk-ai/rtk)هزار)         | فشرده‌سازی خروجی ابزارها (`git diff`، `grep`، `ls`، `tree`...) قبل از ارسال به LLM        | صرفه‌جویی **۲۰ تا ۴۰٪ توکن ورودی** در هر درخواست |
 | 🧠 **ذخیره‌ساز توکن Headroom** ([Headroom](https://github.com/chopratejas/headroom)) | پروکسی خارجی اختیاری `/v1/compress` قبل از مسیریابی به ارائه‌دهنده                      | صرفه‌جویی توکن‌های زمینه بیشتر بدون تغییر کلاینت |
-| 🪨 **حالت غارنشین** ([Caveman](https://github.com/JuliusBrussee/caveman) ⭐۵۲هزار)   | تزریق پرامپت حالت غارنشین → پاسخ‌های مختصر LLM با حفظ محتوای فنی                        | صرفه‌جویی **تا ۶۵٪ توکن خروجی**                 |
+| 🪨 **حالت غارنشین** ([Caveman](https://github.com/JuliusBrussee/caveman)هزار)   | تزریق پرامپت حالت غارنشین → پاسخ‌های مختصر LLM با حفظ محتوای فنی                        | صرفه‌جویی **تا ۶۵٪ توکن خروجی**                 |
 | 🐴 **دم‌اسب** ([Ponytail](https://github.com/DietrichGebert/ponytail))          | تزریق پرامپت "توسعه‌دهنده ارشد تنبل" → کدنویسی حداقلی و YAGNI-first (سبک/کامل/فوق‌سبک) | **توکن خروجی کمتر، بازنویسی کمتر**              |
 | 🎯 **بازگشت هوشمند ۳ لایه**                                                      | مسیریابی خودکار: اشتراک → ارزان → رایگان                                                  | هرگز کدنویسی متوقف نمی‌شود، بدون توقف            |
 | 📊 **پیگیری سهمیه به‌روز**                                                   | تعداد توکن زنده + شمارش معکوس بازنشانی                                                  | حداکثر استفاده از اشتراک                        |
@@ -1394,7 +1291,6 @@ Authorization: Bearer your-api-key
 
 ## 📧 پشتیبانی
 
-- **وب‌سایت**: [9router.com](https://9router.com)
 - **GitHub**: [github.com/decolua/9router](https://github.com/decolua/9router)
 - **مسائل**: [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1404,18 +1300,6 @@ Authorization: Bearer your-api-key
 
 با تشکر از همه مشارکت‌کنندگانی که به بهتر شدن 9Router کمک کردند!
 
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=150&columns=15&anon=1&v=20260309)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 نمودار ستاره
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
-
-## 🔀 فورک‌ها
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — یک فورک کامل TypeScript از 9Router. بیش از ۳۶ ارائه‌دهنده، بازگشت خودکار ۴ لایه، APIهای چندوجهی (تصاویر، جاسازی‌ها، صدا، TTS)، قطع‌کننده مدار، حافظه پنهان معنایی، ارزیابی‌های LLM و داشبوردی زیبا اضافه می‌کند. بیش از ۳۶۸ تست واحد. از طریق npm و داکر در دسترس است.
-
 ---
 
 ## 🙏 قدردانی
@@ -1423,11 +1307,9 @@ Authorization: Bearer your-api-key
 ساخته شده بر روی شانه‌های غول‌ها:
 
 - **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** — پیاده‌سازی اصلی Go که الهام‌بخش این پورت جاوااسکریپت بود.
-- **[RTK](https://github.com/rtk-ai/rtk)** ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=yellow) — ذخیره‌ساز توکن Rust. 9Router خط لوله فشرده‌سازی آن را به JS منتقل می‌کند → **۲۰-۴۰٪- توکن ورودی** در هر درخواست.
-- **[Caveman](https://github.com/JuliusBrussee/caveman)** ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow) توسط **[@JuliusBrussee](https://github.com/JuliusBrussee)** — پرامپت ویروسی _"چرا از توکن زیاد استفاده کنی وقتی توکن کم کار را انجام می‌دهد"_. 9Router پرامپت آن را تطبیق می‌دهد → **۶۵٪- توکن خروجی**.
-- **[Ponytail](https://github.com/DietrichGebert/ponytail)** ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat&color=yellow) توسط **[@DietrichGebert](https://github.com/DietrichGebert)** — مهارت _"توسعه‌دهنده ارشد تنبل"_. 9Router نردبان YAGNI-first آن را تزریق می‌کند → **توکن کمتر، کد کمتر، دیف‌های کوتاه‌تر**.
-
-تشکر فراوان از این نویسندگان — بدون کار آنها، ویژگی‌های ذخیره‌سازی توکن 9Router وجود نداشت. ⭐ آنها را در GitHub بدهید!
+- **[RTK](https://github.com/rtk-ai/rtk)** — ذخیره‌ساز توکن Rust. 9Router خط لوله فشرده‌سازی آن را به JS منتقل می‌کند → **۲۰-۴۰٪- توکن ورودی** در هر درخواست.
+- **[Caveman](https://github.com/JuliusBrussee/caveman)** توسط **[@JuliusBrussee](https://github.com/JuliusBrussee)** — پرامپت ویروسی _"چرا از توکن زیاد استفاده کنی وقتی توکن کم کار را انجام می‌دهد"_. 9Router پرامپت آن را تطبیق می‌دهد → **۶۵٪- توکن خروجی**.
+- **[Ponytail](https://github.com/DietrichGebert/ponytail)** توسط **[@DietrichGebert](https://github.com/DietrichGebert)** — مهارت _"توسعه‌دهنده ارشد تنبل"_. 9Router نردبان YAGNI-first آن را تزریق می‌کند → **توکن کمتر، کد کمتر، دیف‌های کوتاه‌تر**.
 
 ---
 

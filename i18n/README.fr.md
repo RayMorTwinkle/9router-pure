@@ -7,15 +7,8 @@
   
   **Connectez tous vos outils de codage IA (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) à plus de 40 fournisseurs d'IA et plus de 100 modèles.**
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Docker Pulls](https://img.shields.io/docker/pulls/decolua/9router.svg?logo=docker&label=Docker%20pulls)](https://hub.docker.com/r/decolua/9router)
-  [![GHCR](https://img.shields.io/badge/GHCR-decolua%2F9router-blue?logo=github)](https://github.com/decolua/9router/pkgs/container/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
 
-<a href="https://trendshift.io/repositories/22628" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22628" alt="decolua%2F9router | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-[🚀 Démarrage rapide](#-démarrage-rapide) • [💡 Fonctionnalités](#-fonctionnalités-clés) • [📖 Configuration](#-guide-dinstallation) • [🌐 Site web](https://9router.com)
+[🚀 Démarrage rapide](#-démarrage-rapide) • [💡 Fonctionnalités](#-fonctionnalités-clés) • [📖 Configuration](#-guide-dinstallation)
 
 [🇻🇳 Tiếng Việt](./README.vi.md) • [🇨🇳 中文](./README.zh-CN.md) • [🇯🇵 日本語](./README.ja-JP.md) • [🇷🇺 Русский](./README.ru.md) • [🇹🇭 ไทย](./README.th.md) • [🇮🇷 فارسی](./README.fa_IR.md) • [🇮🇩 Indonesia](./README.id-ID.md) • [🇪🇸 Español](./README.es.md) • [🇫🇷 Français](./README.fr.md)
 
@@ -118,102 +111,6 @@ URL par défaut :
 
 - Tableau de bord : `http://localhost:20128/dashboard`
 - API compatible OpenAI : `http://localhost:20128/v1`
-
----
-
-## 🎥 Guides vidéo
-
-<div align="center">
-
-<table>
-  <tr>
-  <td align="center" width="320">
-  <a href="https://www.youtube.com/watch?v=X69n5Lm06Yw">
-    <img src="https://img.youtube.com/vi/X69n5Lm06Yw/maxresdefault.jpg" alt="Tiết kiệm chi phí LLM với 9Router" width="300"/>
-  </a><br/>
-  <b>🇻🇳 Tiếng Việt</b><br/>
-  <sub>Tiết kiệm chi phí LLM cho OpenClaw với 9Router<br/>by <a href="https://www.youtube.com/c/M%C3%ACAIblog">Mì AI</a></sub>
-</td>
-<td align="center" width="320">
-      <a href="https://youtu.be/VQAw612S27Y">
-        <img src="https://img.youtube.com/vi/VQAw612S27Y/maxresdefault.jpg" alt="9Router + Claude Code FREE Unlimited Setup" width="300"/>
-      </a><br/>
-      <b>🇵🇰 اردو / हिन्दी</b><br/>
-      <sub>9Router + Claude Code FREE Unlimited Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=raEyZPg5xE0">
-        <img src="https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg" alt="9Router Setup Tutorial" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>9Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" width="320">
-      <a href="https://youtu.be/3dF5GIYMrcQ?si=bAyfyiHbARJQAHj_">
-        <img src="https://img.youtube.com/vi/3dF5GIYMrcQ/hqdefault.jpg" alt="9Router Setup Tutorial" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>9Router + Claude Code FREE Setup<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=o3qYCyjrFYg">
-        <img src="https://img.youtube.com/vi/o3qYCyjrFYg/maxresdefault.jpg" alt="Claude Code FREE Forever" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>Claude Code FREE Forever — Unlimited Models<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=Ttpc26m39Dw">
-        <img src="https://img.youtube.com/vi/Ttpc26m39Dw/maxresdefault.jpg" alt="Claude CLI Free Setup" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>Claude CLI Free Setup with 9Router 🚀<br/>by <a href="https://www.youtube.com/@CodeVerseSoban">CodeVerse Soban</a></sub>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=G-5A_D5Pm6Y">
-        <img src="https://img.youtube.com/vi/G-5A_D5Pm6Y/maxresdefault.jpg" alt="Cài đặt OpenClaw Free A-Z" width="300"/>
-      </a><br/>
-      <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>Cài Đặt OpenClaw Free Từ A-Z + 9Router<br/>by <a href="https://www.youtube.com/@maigia">Mai Gia</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=JXmg8_gccgE">
-        <img src="https://img.youtube.com/vi/JXmg8_gccgE/maxresdefault.jpg" alt="FREE OpenClaw with Claude Opus" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>FREE OpenClaw + Claude Opus 4.6<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=CkVZZUSTXAI">
-        <img src="https://img.youtube.com/vi/CkVZZUSTXAI/mqdefault.jpg" alt="Claude CLI Free Setup" width="300"/>
-      </a><br/>
-      <b>🇮🇩 Indonesia</b><br/>
-      <sub>Koding 24 Jam Anti Rate Limit! Hemat Token AI 65% | Tutorial Quick Setup 9Router 🚀<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
-    </td>
-    
-  </tr>
-  
-  <tr>
-  <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=TXGv4eofe1I">
-        <img src="https://img.youtube.com/vi/TXGv4eofe1I/mqdefault.jpg" alt="Cara Deploy 9Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB" width="300"/>
-      </a><br/>
-      <b>🇮🇩 Indonesia</b><br/>
-      <sub>Cara Deploy 9Router di Hugging Face GRATIS Non-Stop! | Alternatif VPS RAM 16GB<br/>by <a href="https://www.youtube.com/@krisswuh">Krisswuh</a></sub>
-    </td>
-  </tr>
-
-</table>
-
-</div>
-
-> 🎬 **Vous avez réalisé une vidéo sur 9Router ?** Envoyez une [Pull Request](https://github.com/decolua/9router/pulls) en ajoutant votre vidéo à cette section — nous la fusionnerons !
 
 ---
 
@@ -433,9 +330,9 @@ URL par défaut :
 
 | Fonctionnalité                                                                         | Ce qu'elle fait                                                                                      | Pourquoi c'est important                                  |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🚀 **Économiseur de tokens RTK** ([RTK](https://github.com/rtk-ai/rtk) ⭐40K)           | Compresse les sorties des outils (`git diff`, `grep`, `ls`, `tree`...) avant de les envoyer au LLM    | Économise **20 à 40 % de tokens d'entrée** par requête    |
+| 🚀 **Économiseur de tokens RTK** ([RTK](https://github.com/rtk-ai/rtk))           | Compresse les sorties des outils (`git diff`, `grep`, `ls`, `tree`...) avant de les envoyer au LLM    | Économise **20 à 40 % de tokens d'entrée** par requête    |
 | 🧠 **Économiseur de tokens Headroom** ([Headroom](https://github.com/chopratejas/headroom)) | Proxy externe optionnel `/v1/compress` avant le routage vers le fournisseur                      | Économise plus de tokens de contexte sans changer les clients |
-| 🪨 **Mode cavernicole** ([Caveman](https://github.com/JuliusBrussee/caveman) ⭐52K)     | Injecte un prompt en langage cavernicole → le LLM répond de manière concise, le contenu technique est conservé | Économise **jusqu'à 65 % de tokens de sortie** |
+| 🪨 **Mode cavernicole** ([Caveman](https://github.com/JuliusBrussee/caveman))     | Injecte un prompt en langage cavernicole → le LLM répond de manière concise, le contenu technique est conservé | Économise **jusqu'à 65 % de tokens de sortie** |
 | 🐴 **Ponytail** ([Ponytail](https://github.com/DietrichGebert/ponytail))                | Injecte un prompt de "dev sénior fainéant" → le LLM écrit un code minimal, YAGNI d'abord (Lite/Full/Ultra) | **Moins de tokens de sortie, moins de refactorisation** |
 | 🎯 **Repli intelligent à 3 niveaux**                                                    | Routage automatique : Abonnement → Bon marché → Gratuit                                              | N'arrêtez jamais de coder, zéro temps d'arrêt             |
 | 📊 **Suivi de quota en temps réel**                                                     | Compteur de tokens en direct + compte à rebours de réinitialisation                                   | Maximisez la valeur de votre abonnement                   |
@@ -1396,7 +1293,6 @@ Authorization: Bearer votre-clé-api
 
 ## 📧 Support
 
-- **Site web** : [9router.com](https://9router.com)
 - **GitHub** : [github.com/decolua/9router](https://github.com/decolua/9router)
 - **Problèmes** : [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1406,18 +1302,6 @@ Authorization: Bearer votre-clé-api
 
 Merci à tous les contributeurs qui ont contribué à améliorer 9Router !
 
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=150&columns=15&anon=1&v=20260309)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 Graphique d'étoiles
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
-
-## 🔀 Forks
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Un fork TypeScript complet de 9Router. Ajoute plus de 36 fournisseurs, un repli automatique à 4 niveaux, des API multimodales (images, embeddings, audio, TTS), un disjoncteur, un cache sémantique, des évaluations de LLM et un tableau de bord soigné. Plus de 368 tests unitaires. Disponible via npm et Docker.
-
 ---
 
 ## 🙏 Remerciements
@@ -1425,11 +1309,9 @@ Merci à tous les contributeurs qui ont contribué à améliorer 9Router !
 Construit sur les épaules de géants :
 
 - **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** — implémentation originale en Go qui a inspiré ce port JavaScript.
-- **[RTK](https://github.com/rtk-ai/rtk)** ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=yellow) — économiseur de tokens en Rust. 9Router porte son pipeline de compression en JS → **−20 à 40 % de tokens d'entrée** sur chaque requête.
-- **[Caveman](https://github.com/JuliusBrussee/caveman)** ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow) par **[@JuliusBrussee](https://github.com/JuliusBrussee)** — viral _"why use many token when few token do trick"_. 9Router adapte son prompt → **−65 % de tokens de sortie**.
-- **[Ponytail](https://github.com/DietrichGebert/ponytail)** ![Stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat&color=yellow) par **[@DietrichGebert](https://github.com/DietrichGebert)** — compétence de _"dev sénior fainéant"_. 9Router injecte sa hiérarchie YAGNI-d'abord → **moins de tokens, moins de code, des diffs plus courts**.
-
-Un immense merci à ces auteurs — sans leur travail, les fonctionnalités d'économie de tokens de 9Router n'existeraient pas. Mettez-leur une ⭐ sur GitHub !
+- **[RTK](https://github.com/rtk-ai/rtk)** — économiseur de tokens en Rust. 9Router porte son pipeline de compression en JS → **−20 à 40 % de tokens d'entrée** sur chaque requête.
+- **[Caveman](https://github.com/JuliusBrussee/caveman)** par **[@JuliusBrussee](https://github.com/JuliusBrussee)** — viral _"why use many token when few token do trick"_. 9Router adapte son prompt → **−65 % de tokens de sortie**.
+- **[Ponytail](https://github.com/DietrichGebert/ponytail)** par **[@DietrichGebert](https://github.com/DietrichGebert)** — compétence de _"dev sénior fainéant"_. 9Router injecte sa hiérarchie YAGNI-d'abord → **moins de tokens, moins de code, des diffs plus courts**.
 
 ---
 

@@ -7,11 +7,7 @@
 
   **Hubungkan semua tool AI coding (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) ke 40+ provider AI dan 100+ model.**
 
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-
-  [🚀 Mulai Cepat](#-mulai-cepat) • [💡 Fitur](#-fitur-utama) • [📖 Setup](#-panduan-setup) • [🌐 Website](https://9router.com)
+  [🚀 Mulai Cepat](#-mulai-cepat) • [💡 Fitur](#-fitur-utama) • [📖 Setup](#-panduan-setup)
 
   [🇻🇳 Tiếng Việt](./README.vi.md) • [🇨🇳 中文](./README.zh-CN.md) • [🇯🇵 日本語](./README.ja-JP.md) • [🇮🇩 Bahasa Indonesia](./README.id-ID.md)
 </div>
@@ -109,28 +105,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 URL default:
 - Dashboard: `http://localhost:20128/dashboard`
 - API kompatibel OpenAI: `http://localhost:20128/v1`
-
----
-
-## 🎥 Video Tutorial
-
-<div align="center">
-
-### 📺 Panduan Setup Lengkap - 9Router + Claude Code Gratis
-
-[![9Router + Claude Code Setup](https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg)](https://www.youtube.com/watch?v=raEyZPg5xE0)
-
-**🎬 Tonton tutorial langkah demi langkah:**
-- ✅ Install dan setup 9Router
-- ✅ Konfigurasi Claude Sonnet 4.5 gratis
-- ✅ Integrasi dengan Claude Code
-- ✅ Demo live coding
-
-**⏱️ Durasi:** 20 menit | **👥 Dibuat oleh:** Developer Community
-
-[▶️ Tonton di YouTube](https://www.youtube.com/watch?v=o3qYCyjrFYg)
-
-</div>
 
 ---
 
@@ -944,8 +918,6 @@ MIT License — lihat [LICENSE](https://github.com/decolua/9router/blob/main/LIC
 
 <div align="center">
 
-**Kalau 9Router membantumu, kasih ⭐ di [GitHub](https://github.com/decolua/9router)!**
-
-[🌐 Website](https://9router.com) • [📦 npm](https://www.npmjs.com/package/9router) • [🐛 Laporkan Bug](https://github.com/decolua/9router/issues)
+[📦 npm](https://www.npmjs.com/package/9router) • [🐛 Laporkan Bug](https://github.com/decolua/9router/issues)
 
 </div>

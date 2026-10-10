@@ -7,11 +7,7 @@
   
   **Kết nối tất cả công cụ AI Code (Claude Code, Codex, Cursor, Cline, Copilot, Antigravity...) tới 40+ Nhà cung cấp AI & 100+ Mô hình.**
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://github.com/decolua/9router/blob/main/LICENSE)](https://github.com/decolua/9router/blob/main/LICENSE)
-  
-  [🚀 Bắt đầu nhanh](#-quick-start) • [💡 Tính năng](#-key-features) • [📖 Cài đặt](#-setup-guide) • [🌐 Website](https://9router.com)
+  [🚀 Bắt đầu nhanh](#-quick-start) • [💡 Tính năng](#-key-features) • [📖 Cài đặt](#-setup-guide)
 </div>
 
 ---
@@ -110,29 +106,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 URL mặc định:
 - Bảng điều khiển Dashboard: `http://localhost:20128/dashboard`
 - API tương thích OpenAI: `http://localhost:20128/v1`
-
----
-
-
-## 🎥 Hướng dẫn Video
-
-<div align="center">
-  
-### 📺 Hướng dẫn thiết lập hoàn chỉnh - 9Router + Claude Code MIỄN PHÍ
-  
-[![Thiết lập 9Router + Claude Code](https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg)](https://www.youtube.com/watch?v=raEyZPg5xE0)
-
-**🎬 Xem hướng dẫn từng đầy đủ:**
-- ✅ Cài đặt & thiết lập 9Router
-- ✅ Cấu hình Claude Sonnet 4.5 MIỄN PHÍ
-- ✅ Tích hợp Claude Code
-- ✅ Thử nghiệm code trực tiếp
-
-**⏱️ Thời lượng:** 20 phút | **👥 Bởi:** Cộng đồng Nhà phát triển
-
-[▶️ Xem trên YouTube](https://www.youtube.com/watch?v=o3qYCyjrFYg)
-
-</div>
 
 ---
 
@@ -1255,7 +1228,6 @@ Tài liệu tham khảo kiến trúc đầy đủ: [`docs/ARCHITECTURE.md`](../d
 
 ## 📧 Hỗ trợ
 
-- **Website**: [9router.com](https://9router.com)
 - **GitHub**: [github.com/decolua/9](https://github.com/decolua/9router)
 - **Issues**: [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1264,14 +1236,6 @@ Tài liệu tham khảo kiến trúc đầy đủ: [`docs/ARCHITECTURE.md`](../d
 ## 👥 Người đóng góp
 
 Cảm ơn tất cả những người đã đóng góp giúp 9Router tốt hơn!
-
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=100&columns=20&anon=1)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 Star Chart
-
-[![ Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
 
 ### Cách Đóng góp
 
@@ -1282,12 +1246,6 @@ Cảm ơn tất cả những người đã đóng góp giúp 9Router tốt hơn!
 5. Mở một Pull Request
 
 Xem [Pull Requests](https://github.com/decolua/9router/pulls) để biết hướng dẫn chi tiết.
-
----
-
-## 🔀 Forks
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Một fork TypeScript đầy đủ tính năng của 9Router. Thêm 36+ nhà cung cấp, tự động dự phòng 4 tầng, API đa phương thức (hình ảnh, embedding, âm thanh, TTS), circuit breaker, bộ nhớ đệm ngữ nghĩa, đánh giá LLM và bảng điều khiển được tinh chỉnh. 368+ bài kiểm tra đơn vị. Có sẵn qua npm và.
 
 ---
 

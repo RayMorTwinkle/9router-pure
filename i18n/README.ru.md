@@ -11,11 +11,7 @@
     <img src="../public/providers/openclaw.png" alt="OpenClaw" width="80"/>
   </p>
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-  
-  [🚀 Быстрый старт](#-quick-start) • [💡 Возможности](#-key-features) • [📖 Установка](#-setup-guide) • [🌐 Сайт](https://9router.com)
+  [🚀 Быстрый старт](#-quick-start) • [💡 Возможности](#-key-features) • [📖 Установка](#-setup-guide)
 </div>
 
 ---
@@ -111,28 +107,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 URL по умолчанию:
 - Панель управления: `http://localhost:20128/dashboard`
 - OpenAI-совместимый API: `http://localhost:20128/v1`
-
----
-
-## 🎥 Видео-руководство
-
-<div align="center">
-  
-### 📺 Полное руководство по настройке - 9Router + Claude Code БЕСПЛАТНО
-  
-[![Настройка 9Router + Claude Code](https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg)](https://www.youtube.com/watch?v=raEyZPg5xE0)
-
-**🎬 Полное пошаговое руководство:**
-- ✅ Установка и настройка 9Router
-- ✅ Настройка Claude Sonnet 4.5 БЕСПЛАТНО
-- ✅ Интеграция с Claude Code
-- ✅ Тестирование кода вживую
-
-**⏱️ Длительность:** 20 минут | **👥 Автор:** Сообщество разработчиков
-
-[▶️ Смотреть на YouTube](https://www.youtube.com/watch?v=o3qYCyjrFYg)
-
-</div>
 
 ---
 
@@ -1258,7 +1232,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 
 ## 📧 Поддержка
 
-- **Сайт**: [9router.com](https://9router.com)
 - **GitHub**: [github.com/decolua/9router](https://github.com/decolua/9router)
 - **Issues**: [github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1267,14 +1240,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 ## 👥 Контрибьюторы
 
 Спасибо всем, кто помогает делать 9Router лучше!
-
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=100&columns=20&anon=1)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 Star Chart
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
 
 ### Как внести вклад
 
@@ -1285,12 +1250,6 @@ OPENAI_API_KEY="your-cloud-key" bash tester/security/test-cloud-openai-compatibl
 5. Откройте Pull Request
 
 См. [Pull Requests](https://github.com/decolua/9router/pulls) для подробных инструкций.
-
----
-
-## 🔀 Форки
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — Полнофункциональный TypeScript-форк 9Router. Добавляет 36+ провайдеров, авторезервирование на 4 уровнях, мультимодальный API (изображения, embedding, аудио, TTS), circuit breaker, семантическое кеширование, оценку LLM и доработанную панель. 368+ юнит-тестов. Доступен через npm.
 
 ---
 

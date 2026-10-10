@@ -8,13 +8,7 @@
   
   **将所有 AI 编程工具（Claude Code、Cursor、Antigravity、Copilot、Codex、Gemini、OpenCode、Cline、OpenClaw...）连接到 40+ AI 提供商和 100+ 模型。**
   
-  [![npm](https://img.shields.io/npm/v/9router.svg)](https://www.npmjs.com/package/9router)
-  [![Downloads](https://img.shields.io/npm/dm/9router.svg)](https://www.npmjs.com/package/9router)
-  [![License](https://img.shields.io/npm/l/9router.svg)](https://github.com/decolua/9router/blob/main/LICENSE)
-
-  <a href="https://trendshift.io/repositories/22628" target="_blank"><img src="https://trendshift.io/api/badge/repositories/22628" alt="decolua%2F9router | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-  
-  [🚀 快速开始](#-快速开始) • [💡 功能特点](#-主要功能) • [📖 设置指南](#-设置指南) • [🌐 网站](https://9router.com)
+  [🚀 快速开始](#-快速开始) • [💡 功能特点](#-主要功能) • [📖 设置指南](#-设置指南)
 
   [🇻🇳 Tiếng Việt](./i18n/README.vi.md) • [🇨🇳 中文](./i18n/README.zh-CN.md) • [🇯🇵 日本語](./i18n/README.ja-JP.md)
 </div>
@@ -115,65 +109,6 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 默认 URL：
 - 控制面板：`http://localhost:20128/dashboard`
 - OpenAI 兼容 API：`http://localhost:20128/v1`
-
----
-
-## 视频教程
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=raEyZPg5xE0">
-        <img src="https://img.youtube.com/vi/raEyZPg5xE0/maxresdefault.jpg" alt="9Router Setup Tutorial" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>9Router + Claude Code 免费设置<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=X69n5Lm06Yw">
-        <img src="https://img.youtube.com/vi/X69n5Lm06Yw/maxresdefault.jpg" alt="Tiết kiệm chi phí LLM với 9Router" width="300"/>
-      </a><br/>
-      <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>使用 9Router 节省 OpenClaw 的 LLM 成本<br/>by <a href="https://www.youtube.com/c/M%C3%ACAIblog">Mì AI</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=o3qYCyjrFYg">
-        <img src="https://img.youtube.com/vi/o3qYCyjrFYg/maxresdefault.jpg" alt="Claude Code FREE Forever" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>Claude Code 免费永久使用 — 无限模型<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=Ttpc26m39Dw">
-        <img src="https://img.youtube.com/vi/Ttpc26m39Dw/maxresdefault.jpg" alt="Claude CLI Free Setup" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>使用 9Router 免费设置 Claude CLI 🚀<br/>by <a href="https://www.youtube.com/@CodeVerseSoban">CodeVerse Soban</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=G-5A_D5Pm6Y">
-        <img src="https://img.youtube.com/vi/G-5A_D5Pm6Y/maxresdefault.jpg" alt="Cài đặt OpenClaw Free A-Z" width="300"/>
-      </a><br/>
-      <b>🇻🇳 Tiếng Việt</b><br/>
-      <sub>从零开始安装 OpenClaw 免费版 + 9Router<br/>by <a href="https://www.youtube.com/@maigia">Mai Gia</a></sub>
-    </td>
-    <td align="center" width="320">
-      <a href="https://www.youtube.com/watch?v=JXmg8_gccgE">
-        <img src="https://img.youtube.com/vi/JXmg8_gccgE/maxresdefault.jpg" alt="FREE OpenClaw with Claude Opus" width="300"/>
-      </a><br/>
-      <b>🇺🇸 English</b><br/>
-      <sub>免费 OpenClaw + Claude Opus 4.6<br/>by <a href="https://www.youtube.com/@BuildAIWithHamid">Build AI With Hamid</a></sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-> 🎬 **制作了关于 9Router 的视频？** 提交 [Pull Request](https://github.com/decolua/9router/pulls)，将你的视频添加到此部分 — 我们会合并它！
 
 ---
 
@@ -393,8 +328,8 @@ PORT=20128 HOSTNAME=0.0.0.0 NEXT_PUBLIC_BASE_URL=http://localhost:20128 npm run 
 
 | 功能 | 作用 | 为什么重要 |
 |---------|--------------|----------------|
-| 🚀 **RTK Token 节省器**（[RTK](https://github.com/rtk-ai/rtk) ⭐40K） | 压缩工具输出（`git diff`、`grep`、`ls`、`tree`...）后再发送给 LLM | 每次请求节省 **20-40% 输入 tokens** |
-| 🪨 **Caveman 模式**（[Caveman](https://github.com/JuliusBrussee/caveman) ⭐52K） | 注入 caveman 风格提示词 → LLM 回复简洁，保留技术实质 | 节省 **高达 65% 输出 tokens** |
+| 🚀 **RTK Token 节省器**（[RTK](https://github.com/rtk-ai/rtk)） | 压缩工具输出（`git diff`、`grep`、`ls`、`tree`...）后再发送给 LLM | 每次请求节省 **20-40% 输入 tokens** |
+| 🪨 **Caveman 模式**（[Caveman](https://github.com/JuliusBrussee/caveman)） | 注入 caveman 风格提示词 → LLM 回复简洁，保留技术实质 | 节省 **高达 65% 输出 tokens** |
 | 🎯 **智能三层切换** | 自动路由：订阅 → 低价 → 免费 | 编程永不停歇，零停机时间 |
 | 📊 **实时配额追踪** | 实时 token 计数 + 重置倒计时 | 充分利用订阅价值 |
 | 🔄 **格式转换** | OpenAI ↔ Claude ↔ Gemini ↔ Cursor ↔ Kiro ↔ Vertex | 兼容任何 CLI 工具 |
@@ -1266,7 +1201,6 @@ Authorization: Bearer your-api-key
 
 ## 📧 支持
 
-- **网站**：[9router.com](https://9router.com)
 - **GitHub**：[github.com/decolua/9router](https://github.com/decolua/9router)
 - **问题**：[github.com/decolua/9router/issues](https://github.com/decolua/9router/issues)
 
@@ -1276,20 +1210,6 @@ Authorization: Bearer your-api-key
 
 感谢所有帮助改进 9Router 的贡献者！
 
-[![Contributors](https://contrib.rocks/image?repo=decolua/9router&max=150&columns=15&anon=1&v=20260309)](https://github.com/decolua/9router/graphs/contributors)
-
----
-
-## 📊 Star 图表
-
-[![Star Chart](https://starchart.cc/decolua/9router.svg?variant=adaptive)](https://starchart.cc/decolua/9router)
-
-
-
-## 🔀 分支
-
-**[OmniRoute](https://github.com/diegosouzapw/OmniRoute)** — 9Router 的全功能 TypeScript 分支。增加了 36+ 提供商、4 层自动切换、多模态 API（图像、嵌入、音频、TTS）、断路器、语义缓存、LLM 评估和精美的控制面板。368+ 单元测试。可通过 npm 和 Docker 使用。
-
 ---
 
 ## 🙏 致谢
@@ -1297,8 +1217,8 @@ Authorization: Bearer your-api-key
 站在巨人的肩膀上构建：
 
 - **CLIProxyAPI** — 启发了这个 JavaScript 移植的原始 Go 实现。
-- **[RTK](https://github.com/rtk-ai/rtk)** ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=yellow) — Rust token 节省器。9Router 将其压缩管道移植到 JS → 每次请求 **减少 20-40% 输入 tokens**。
-- **[Caveman](https://github.com/JuliusBrussee/caveman)** ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat&color=yellow) by **[@JuliusBrussee](https://github.com/JuliusBrussee)** — 病毒式传播的 *"为什么用很多 token 当少的 token 就能搞定"*。9Router 适配其提示词 → **减少 65% 输出 tokens**。
+- **[RTK](https://github.com/rtk-ai/rtk)** — Rust token 节省器。9Router 将其压缩管道移植到 JS → 每次请求 **减少 20-40% 输入 tokens**。
+- **[Caveman](https://github.com/JuliusBrussee/caveman)** by **[@JuliusBrussee](https://github.com/JuliusBrussee)** — 病毒式传播的 *"为什么用很多 token 当少的 token 就能搞定"*。9Router 适配其提示词 → **减少 65% 输出 tokens**。
 
 非常感谢这些作者 — 没有他们的工作，9Router 的 token 节省功能就不会存在。在 GitHub 上给他们加星！
 
