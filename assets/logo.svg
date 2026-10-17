@@ -1,0 +1,36 @@
+<svg viewBox="0 0 512 512" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <title>9router-pure</title>
+  <defs>
+    <!-- Brand orange gradient (matches the project's own favicon palette) -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fb8c2e"/>
+      <stop offset="100%" stop-color="#c2590a"/>
+    </linearGradient>
+    <!-- Cool water gradient for the "pure" droplet -->
+    <linearGradient id="drop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Rounded-square base plate -->
+  <rect x="36" y="36" width="440" height="440" rx="104" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="36" y="36" width="440" height="440" rx="104" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="2"/>
+  <rect x="38" y="38" width="436" height="436" rx="102" fill="none" stroke="#7a2e00" stroke-opacity="0.22" stroke-width="2"/>
+
+  <!-- The "9" drawn as a routed path: ring head + tail ending in a node dot -->
+  <g fill="none" stroke="#ffffff" stroke-width="46" stroke-linecap="round">
+    <circle cx="248" cy="196" r="86"/>
+    <path d="M 322 234 C 344 318 306 392 200 410"/>
+  </g>
+  <!-- Endpoint node -->
+  <circle cx="200" cy="410" r="32" fill="#ffffff"/>
+
+  <!-- "Pure" badge: droplet on a dark medallion, top-right corner -->
+  <circle cx="398" cy="112" r="60" fill="#0b1220"/>
+  <circle cx="398" cy="112" r="60" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <path d="M 398 84 C 384 106 372 118 372 130 A 26 26 0 0 0 424 130 C 424 118 412 106 398 84 Z" fill="url(#drop)"/>
+</svg>
